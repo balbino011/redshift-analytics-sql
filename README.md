@@ -28,7 +28,7 @@ Fatos: orders, order_details
 Dimensões: customers, employees, shippers, products, categories, suppliers
 
 📂 Organização dos Scripts no Repositório
-Plaintext
+'''
 ├── scripts/
 │ ├── 01_create_database.sql # DDL: Criação das tabelas, chaves primárias e relacionamentos
 │ ├── 02_copy_data_from_s3.sql # Ingestão / Pipeline ELT via comando COPY e IAM Role
@@ -40,7 +40,7 @@ Plaintext
 ├── img/
 │ └── diagram of the database.png # Diagrama Entidade-Relacionamento
 └── README.md # Documentação do projeto
-
+'''
 🚀 Destaques Técnicos de Engenharia de Dados
 
 1. Ingestão de Dados em Nuvem (S3 → Redshift)
