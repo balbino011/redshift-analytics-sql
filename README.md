@@ -40,6 +40,7 @@ Plaintext
 ├── img/
 │ └── diagram of the database.png # Diagrama Entidade-Relacionamento
 └── README.md # Documentação do projeto
+
 🚀 Destaques Técnicos de Engenharia de Dados
 
 1. Ingestão de Dados em Nuvem (S3 → Redshift)
